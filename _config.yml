@@ -1,6 +1,17 @@
-title: Minimal theme
+title: <p align="center"> Ashwini Abhang </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+
+description: 
+<p> align="center">
+<a href+"pdf//resume.pdf">Resume</a>
+<a href="https://www.linkedin.com/in/AshwiniAbhang/">linkedin>/a>
+<a href="https="//github.com/Ashu1905">Github</a>
+<br>
+I'm currently studying my masters in artifical intelligence and machine learning.
+<br>
+</p>
+
 show_downloads: true
 google_analytics:
+
 theme: jekyll-theme-minimal
